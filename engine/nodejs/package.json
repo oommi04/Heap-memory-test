@@ -1,0 +1,27 @@
+{
+  "name": "memory-limitations",
+  "version": "1.0.0",
+  "description": "Test the limits of NodeJS heap allocations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "soon"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Memory"
+  ],
+  "author": "Camilo Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "axios": "^0.27.2",
+    "flow-node": "^2.186.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.1"
+  }
+}
