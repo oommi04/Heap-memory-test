@@ -24,7 +24,7 @@ MongoDB does not provide any sample databases on their website, However, they do
 | [Sample Training Dataset](https://docs.atlas.mongodb.com/sample-data/sample-training/)      | Contains MongoDB training services dataset.                       | companies, grades, inspection, posts, routes, stories, trips, tweets, zips |
 | [Sample Weather Dataset](https://docs.atlas.mongodb.com/sample-data/sample-weather/)        | Contains detailed weather reports.                                | data                                                                       |
 
-## Running in docker
+## Running in Oommi03
 
 ```bash
 docker pull mvertes/alpine-mongo
