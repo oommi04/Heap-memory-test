@@ -11,6 +11,7 @@ Atlas provides sample data you can load into your Atlas clusters. You can use th
 MongoDB does not provide any sample databases on their website, However, they do provide sample databases for their cloud service Atlas.  These databases have been dumped from a MongoDB Atlas cluster using the MongoDB Compass GUI.  There are 7 databases, with each database collection (table) stored in a seperate JSON file.  These files will accelerate learning of MongoDB's features by allowing new developers to quickly experiment with prepopulated datasets.
 
 
+
 ## Sample Datasets
 
 | Dataset Name                                                                                | Description                                                       | Collections                                                                |
