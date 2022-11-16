@@ -11,6 +11,8 @@ if [ ! -z "$3" ]; then
     fi
 fi
 
+
+
 for coll in *; do
     if [ -d "${coll}" ] ; then
         echo "$coll"
